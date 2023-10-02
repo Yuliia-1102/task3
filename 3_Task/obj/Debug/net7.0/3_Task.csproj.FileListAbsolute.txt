@@ -1,0 +1,15 @@
+/Users/macbook/Projects/3_Task/3_Task/bin/Debug/net7.0/3_Task
+/Users/macbook/Projects/3_Task/3_Task/bin/Debug/net7.0/3_Task.deps.json
+/Users/macbook/Projects/3_Task/3_Task/bin/Debug/net7.0/3_Task.runtimeconfig.json
+/Users/macbook/Projects/3_Task/3_Task/bin/Debug/net7.0/3_Task.dll
+/Users/macbook/Projects/3_Task/3_Task/bin/Debug/net7.0/3_Task.pdb
+/Users/macbook/Projects/3_Task/3_Task/obj/Debug/net7.0/3_Task.csproj.AssemblyReference.cache
+/Users/macbook/Projects/3_Task/3_Task/obj/Debug/net7.0/3_Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Projects/3_Task/3_Task/obj/Debug/net7.0/3_Task.AssemblyInfoInputs.cache
+/Users/macbook/Projects/3_Task/3_Task/obj/Debug/net7.0/3_Task.AssemblyInfo.cs
+/Users/macbook/Projects/3_Task/3_Task/obj/Debug/net7.0/3_Task.csproj.CoreCompileInputs.cache
+/Users/macbook/Projects/3_Task/3_Task/obj/Debug/net7.0/3_Task.dll
+/Users/macbook/Projects/3_Task/3_Task/obj/Debug/net7.0/refint/3_Task.dll
+/Users/macbook/Projects/3_Task/3_Task/obj/Debug/net7.0/3_Task.pdb
+/Users/macbook/Projects/3_Task/3_Task/obj/Debug/net7.0/3_Task.genruntimeconfig.cache
+/Users/macbook/Projects/3_Task/3_Task/obj/Debug/net7.0/ref/3_Task.dll
